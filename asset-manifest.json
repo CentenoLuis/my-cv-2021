@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-cv-2021/static/css/main.04b3890d.chunk.css",
+    "main.js": "/my-cv-2021/static/js/main.e10c2da1.chunk.js",
+    "main.js.map": "/my-cv-2021/static/js/main.e10c2da1.chunk.js.map",
+    "runtime-main.js": "/my-cv-2021/static/js/runtime-main.1158a04c.js",
+    "runtime-main.js.map": "/my-cv-2021/static/js/runtime-main.1158a04c.js.map",
+    "static/css/2.6e537103.chunk.css": "/my-cv-2021/static/css/2.6e537103.chunk.css",
+    "static/js/2.02117913.chunk.js": "/my-cv-2021/static/js/2.02117913.chunk.js",
+    "static/js/2.02117913.chunk.js.map": "/my-cv-2021/static/js/2.02117913.chunk.js.map",
+    "index.html": "/my-cv-2021/index.html",
+    "static/css/2.6e537103.chunk.css.map": "/my-cv-2021/static/css/2.6e537103.chunk.css.map",
+    "static/css/main.04b3890d.chunk.css.map": "/my-cv-2021/static/css/main.04b3890d.chunk.css.map",
+    "static/js/2.02117913.chunk.js.LICENSE.txt": "/my-cv-2021/static/js/2.02117913.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/my-cv-2021/static/media/primeicons.c6e20533.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1158a04c.js",
+    "static/css/2.6e537103.chunk.css",
+    "static/js/2.02117913.chunk.js",
+    "static/css/main.04b3890d.chunk.css",
+    "static/js/main.e10c2da1.chunk.js"
+  ]
+}
