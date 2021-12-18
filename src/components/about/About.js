@@ -3,16 +3,18 @@ import React from "react";
 const About = () => {
   return (
     <div>
-      <h1
-        style={{
-          marginTop: "40px",
-          marginBottom: "10px",
-          fontSize: "40px",
-        }}
-        align="center"
-      >
-        About Me
-      </h1>
+      <div>
+        <h1
+          style={{
+            marginTop: "40px",
+            marginBottom: "10px",
+            fontSize: "40px",
+          }}
+          align="center"
+        >
+          About Me
+        </h1>
+      </div>
       <div className="flex flex-wrap justify-content-start mx-4 my-4">
         <div>
           <h4

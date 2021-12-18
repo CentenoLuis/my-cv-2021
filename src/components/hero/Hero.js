@@ -31,11 +31,7 @@ const Hero = (props) => {
                 </h2>
 
                 <div>
-                  <Button
-                    label="Contact"
-                    type="button"
-                    className="p-button-raised"
-                  />
+                  <Button className="p-button-raised my-1" label="CONTACT" />
                 </div>
               </section>
             </section>

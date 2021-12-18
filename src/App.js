@@ -7,6 +7,7 @@ import About from "./components/about/About";
 import Footer from "./components/footer/Footer";
 import Skills from "./components/skills/Skills";
 import Timeline from "./components/timeline/Timeline";
+import TextArea from "./components/textarea/TextArea";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Experience />
       <Portfolio />
       <Skills />
+      <TextArea />
       <About />
       <Footer />
     </>

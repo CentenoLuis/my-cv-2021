@@ -28,11 +28,11 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="flex flex-wrap flex-column mt-4 mb-4 border-round justify-content-center">
+        <div className="flex flex-wrap flex-column mt-2 mb-2 border-round justify-content-center">
           <div>
             <h2>MY SOCIAL MEDIA</h2>
           </div>
-          <div className="flex flex-wrap mt-4 border-round justify-content-between">
+          <div className="flex flex-wrap mt-2 border-round justify-content-between">
             <div>
               <i className="pi pi-github text-3xl"></i>
             </div>
@@ -45,22 +45,12 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="flex flex-wrap flex-column mt-4 mb-4 border-round justify-content-around align-content-start">
+        <div className="flex flex-wrap flex-column mt-2 mb-2 border-round justify-content-around align-content-start">
           <div>
             <h2>CONTACT ME</h2>
           </div>
           <div>
-            <span className="p-input my-2">
-              <InputText placeholder="Search" />
-            </span>
-          </div>
-          <div>
-            <Button
-              className="p-button-raised my-2"
-              label="Send"
-              icon="pi pi-send"
-              iconPos="left"
-            />
+            <Button className="p-button-raised my-1" label="CONTACT" />
           </div>
         </div>
       </div>
