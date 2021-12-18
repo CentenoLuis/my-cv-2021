@@ -6,9 +6,13 @@ export const myProjects = [
       "https://cnnespanol.cnn.com/wp-content/uploads/2021/01/bitcoin-1.jpg?quality=100&strip=info",
     github: "https://centenoluis.github.io",
     task: [
-      "Implementation of the UNE 135401-4 IN standard communication protocol in the company's own traffic controller",
-      "Handling and sending data from remote controllers to central hub via twisted pair cable, ethernet and 4G router modems.",
-      "Technical assistance, preventive maintenance and training of technical staff.",
+      "Studied the SCRUM framework, and how to aply it in software development environment.",
+      "Designed a friendly and engaging layout for the web app.",
+      "Researched the API documentation to fetch JSON data from six crypto currency exchanges.",
+      "Implemented Git for version control.",
+      "Implemented React and Material UI 5 framework with Java Script ES6, HTML5 and CSS3.",
+      "Researched Next.js framework.",
+      "Deploy the web app on Github Pages.",
     ],
     hours: "20 Hours",
     technologies: [
@@ -24,9 +28,11 @@ export const myProjects = [
       "https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/github-universe.jpg?itok=lwRZddXA",
     github: "https://centenoluis.github.io",
     task: [
-      "Implementation of the UNE 135401-4 IN standard communication protocol in the company's own traffic controller",
-      "Handling and sending data from remote controllers to central hub via twisted pair cable, ethernet and 4G router modems.",
-      "Technical assistance, preventive maintenance and training of technical staff.",
+      "Studied the HTML elements reference for the design.",
+      "Implemented Java Script ES6, HTML5, and CSS3 for the scripts.",
+      "Researched the Github API documentation and fetch JSON data from it.",
+      "Implemented Git for version control.",
+      "Deploy of the website on Github Pages.",
     ],
     hours: "20 Hours",
     technologies: [
@@ -41,9 +47,11 @@ export const myProjects = [
     image: "https://viasoft.com.br/wp-content/uploads/2019/04/img_face.png",
     github: "https://github.com/CentenoLuis/test-viasoft/tree/main",
     task: [
-      "Implementation of the UNE 135401-4 IN standard communication protocol in the company's own traffic controller",
-      "Handling and sending data from remote controllers to central hub via twisted pair cable, ethernet and 4G router modems.",
-      "Technical assistance, preventive maintenance and training of technical staff.",
+      "Implementated Cheerio JS in a web scraper",
+      "Setup MongoDB Atlas data base to store scraped data",
+      "Implemented a Node JS server using Express JS",
+      "Developed Front End interface to display data fetching data base",
+      "Implemented Git for version control.",
     ],
     hours: "21 Hours",
     technologies: [
@@ -62,9 +70,12 @@ export const myProjects = [
       "https://images.unsplash.com/photo-1496715976403-7e36dc43f17b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     github: "https://github.com/CentenoLuis",
     task: [
-      "Implementation of the UNE 135401-4 IN standard communication protocol in the company's own traffic controller",
-      "Handling and sending data from remote controllers to central hub via twisted pair cable, ethernet and 4G router modems.",
-      "Technical assistance, preventive maintenance and training of technical staff.",
+      "Implemented a Front End interface using React",
+      "Implemented Prime React components",
+      "Setup MongoDB Atlas data base to store Messages and Emails from contacts",
+      "Implemented a Node JS server using Express JS",
+      "Deployed the Node JS server into Heroku Apps",
+      "Deployed the Front End interface in Github Pages",
     ],
     hours: "21 Hours",
     technologies: [
