@@ -4,7 +4,7 @@ export const myProjects = [
     title: "Landing Page Btc - Usd Price",
     image:
       "https://cnnespanol.cnn.com/wp-content/uploads/2021/01/bitcoin-1.jpg?quality=100&strip=info",
-    github: "https://centenoluis.github.io",
+    github: "https://centenoluis.github.io/converter-btc-usd-material-ui/",
     task: [
       "Studied the SCRUM framework, and how to aply it in software development environment.",
       "Designed a friendly and engaging layout for the web app.",

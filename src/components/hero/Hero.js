@@ -1,4 +1,5 @@
 import React from "react";
+import { forwardRef, useRef } from "react";
 import { Button } from "primereact/button";
 
 const Hero = (props) => {
@@ -31,7 +32,10 @@ const Hero = (props) => {
                 </h2>
 
                 <div>
-                  <Button className="p-button-raised my-1" label="CONTACT" />
+                  <Button
+                    className="p-button-raised my-1"
+                    label="CONTACT"
+                  ></Button>
                 </div>
               </section>
             </section>

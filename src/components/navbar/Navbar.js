@@ -4,36 +4,11 @@ import { Button } from "primereact/button";
 const Navbar = (props) => {
   return (
     <>
-      <div className="flex flex-wrap justify-content-between">
-        <div className="flex flex-wrap">
-          <i className="pi pi-box" style={{ fontSize: "1.5rem" }}></i>
-          <i className="pi pi-minus" style={{ fontSize: "0.75rem" }}></i>
-          <i className="pi pi-box" style={{ fontSize: "1.5rem" }}></i>
-          <i className="pi pi-minus" style={{ fontSize: "0.75rem" }}></i>
-
-          <h5>LuisCentenoDEV</h5>
-        </div>
-        <div className="flex flex-wrap ">
-          <div>
-            <a href="">
-              <h4>Experience</h4>
-            </a>
-          </div>
-          <div>
-            <div>
-              <a href="">
-                <h4>Projects</h4>
-              </a>
-            </div>
-          </div>
-          <div>
-            <div>
-              <a href="">
-                <h4>About</h4>
-              </a>
-            </div>
-          </div>
-        </div>
+      <div
+        className="sticky z-2 top-0 font-bold text-0 surface-800 shadow-2 p-4 m-2 border-round"
+        style={{ height: "80px" }}
+      >
+        <div></div>
       </div>
     </>
   );

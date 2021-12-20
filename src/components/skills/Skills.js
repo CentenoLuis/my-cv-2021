@@ -5,7 +5,7 @@ function Skills() {
   return (
     <>
       <div>
-        <div className="flex flex-wrap justify-content-between my-4 mx-4">
+        <div className="flex flex-wrap justify-content-between my-4 mx-4 ">
           <div className="surface-800 shadow-6 mx-2 my-2 px-2 py-2 border-round">
             <h2>Javascript</h2>
             <Rating value={8} readOnly stars={10} cancel={false} />
